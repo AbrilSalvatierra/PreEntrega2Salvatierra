@@ -1,0 +1,31 @@
+body {
+	font-family: 'Roboto', sans-serif;
+    background-color: #fafbfd;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #110901;
+	padding: 1em;
+}
+
+.logo {
+	font-size: 1.5rem;
+	color: #fafbfd;
+	text-decoration: none;
+}
+
+main {
+	max-width: 800px;
+	margin: 2em auto;
+	text-align: center;
+}
+
+footer {
+	border-top: 1px solid #333;
+}
+
+footer p {
+	text-align: center;
+}
